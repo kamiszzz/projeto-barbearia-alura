@@ -1,2 +1,2 @@
 # projeto-barbearia-alura
-# com html e css
+Foi utilizado html e css
