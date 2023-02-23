@@ -1,2 +1,3 @@
 # projeto-barbearia-alura
-Foi utilizado html e css
+
+Projeto ensinado pela a Alura em seu curso dE HTML5 e CSS3
